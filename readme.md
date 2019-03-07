@@ -2,7 +2,7 @@
 该仓库为个人新版简历。
 
  ## 目录结构
-
+```
 ├── .babelrc babel配置文件  
 ├── webpack.config.js webpack配置文件  
 ├── index.html html模版文件  
@@ -27,6 +27,7 @@
     ├── data 数据文件  
     └── pages 网站主入口文件  
         └── resume 简历页面文件夹  
+```
 
  ## 使用技术
 
