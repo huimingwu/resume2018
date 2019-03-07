@@ -1,0 +1,73 @@
+.basciInfo,.detail{
+    padding: 10px 35px; 
+}
+.basciInfo {
+    background-color: #29a5a1;
+    border-radius: 5px 5px 0px 0px; 
+    color: #ffffff;
+    position: relative;
+    overflow: hidden;
+}
+@media print {
+    .basciInfo {
+        border-radius: 0 0 0 0; 
+    }
+    
+}
+.basicInfoDet {
+    width: 80%;
+    float: left;
+}
+.profile-picture {
+    float: left;
+    width:161.5px;
+    height: 190px;
+    position: absolute;
+    right: 78px;
+    bottom: 0px;
+}
+.title {
+    overflow: hidden;
+    
+}
+.title h1 {
+    font-size: 70px;
+    display: inline-block;
+}
+.title h2 {
+    font-size: 24px;
+    font-weight: 100;
+    display: inline-block;
+}
+.contact {
+    font-size: 14px;
+}
+.contact li {
+    width: 100%;
+    font-weight: thiner;
+    margin-top: 3px;
+    vertical-align: middle;
+}
+.contact i {
+    display: inline-block;
+    width:20px;
+    height: 22px;
+    
+    margin: 0 auto;
+    margin-right: 10px;
+}
+.contact-left {
+    float: left;
+    min-width: 40%;
+}
+.contact-right {
+    float: left;
+    min-width: 30%;
+}
+.contact a {
+    color:#ffffff;
+}
+.contact a:hover {
+    color:#cecccf!important; 
+}
+

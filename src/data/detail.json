@@ -1,0 +1,246 @@
+{
+    "header": {
+        "name": "吴旭",
+        "job": "Web前端开发工程师",
+        "moreLeft": [
+            {
+                "name": "phone",
+                "iconClass": "icon-dianhua",
+                "text": "13810986025",
+                "dataUrl": ""
+            },
+            {
+                "name": "qq",
+                "iconClass": "icon-qq",
+                "text": "269854821",
+                "dataUrl": "http://shang.qq.com/email/stop/email_stop.html?qq=269854821&sig=91d100f7c629a07eb8ecfc722a1441653e7b206f432bc0e4&tttt=1"
+            },
+            {
+                "name": "wechat",
+                "iconClass": "icon-weixin",
+                "text": "barton9898",
+                "dataUrl": ""
+            },
+            {
+                "name": "email",
+                "iconClass": "icon-youjian",
+                "text": "i@huimingwu.com",
+                "dataUrl": "mailto:i@huimingwu.com"
+            }
+        ],
+        "moreRight": [
+            {
+                "name": "placeOfResidence",
+                "iconClass": "icon-weibiaoti6",
+                "text": "北京市 · 海淀区",
+                "dataUrl": ""
+            },
+            {
+                "name": "biogenicPlace",
+                "iconClass": "icon-Id",
+                "text": "湖南省 · 吉首市",
+                "dataUrl": ""
+            },
+            {
+                "name": "github",
+                "iconClass": "icon-github",
+                "text": "https://github.com/huimingwu/",
+                "dataUrl": "https://github.com/huimingwu/"
+            },
+            {
+                "name": "homepage",
+                "iconClass": "icon-yyzhuye3",
+                "text": "https://segmentfault.com/u/wuhuiming/",
+                "dataUrl": "https://segmentfault.com/u/wuhuiming/"
+            }
+        ],
+        "imgUrl": "../../resource/img/IMG_1038.jpg"
+    },
+    "detail": {
+        "edu":{
+            "name": "教育背景：EDUCATION BACKGROUND",
+            "detailDet": [
+                {
+                    "date": "2018.09-2020.06",
+                    "title": "中央民族大学 现代教育技术专业(硕士)",
+                    "describe": [
+                        "国家 “双一流” 、“985工程” 和 “211工程” 重点建设大学",
+                        "就读于 信息工程 学院，研究 数据挖掘 方向",
+                        "研究生入学考试复试，综合面试 第一",
+                        "以 第二作者 身份（第一作者为导师）在 IEEE Access 上发表文章一篇，SCI 二区，影响因子 3.557，Link：https://ieeexplore.ieee.org/document/8633906"
+                    ]
+                },
+                {
+                    "date": "2013.09-2017.06",
+                    "title": "重庆邮电大学 软件工程专业(学士)",
+                    "describe": [
+                        "优秀学生奖学金",
+                        "优秀学生干部",
+                        "青年志愿者先进个人",
+                        "校第四届智能终端应用设计大赛二等奖",
+                        "校第十届大学生创业大赛三等奖"
+                    ]
+                }
+            ]
+        },
+        "work":{
+            "name": "校园经验：CAMPUS EXPERIENCE",
+            "detailDet": [
+                {
+                    "date": "2018.09-至今",
+                    "title": "中央民族大学 · 班长",
+                    "describe": [
+                        "班级核心成员，主管班级事物，积极带头参与各项活动",
+                        "认真负责，获得所带班级多数同学的认可"
+                    ]
+                },
+                {
+                    "date": "2018.09-至今",
+                    "title": "中央民族大学 · 团支部副书记",
+                    "describe": [
+                        "信工工程学院2018级研究生团支部副书记",
+                        "协助书记完成班团衔接相关的工作"
+                    ]
+                },
+                {
+                    "date": "2015.09-2017.06",
+                    "title": "重庆邮电大学 · 辅导员助理",
+                    "describe": [
+                        "协助辅导员处理年级事务和辅导员工作，负责年级班团委例会的召开、与任课教师统筹协调以及考研、外出实习管理、推进等工作",
+                        "认真负责，获得辅导员老师的认可"
+                    ]
+                },
+                {
+                    "date": "2015.09-2016.06",
+                    "title": "重庆邮电大学 · 班学长",
+                    "describe": [
+                        "引导新生过渡，辅助新生规划大学生涯",
+                        "认真负责，获得所带班级多数同学的认可"
+                    ]
+                },
+                {
+                    "date": "2014.09-2017.06",
+                    "title": "重庆邮电大学 · 班长",
+                    "describe": [
+                        "所带班级团结友爱，积极进取；所在班级大学期间收获校先进班集体 2 次、五四红旗团支部 3 次；个人代表班级答辩 5 次，获奖 5 次，获奖率 100%"
+                    ]
+                }
+            ]
+        },
+        "project":{
+            "name": "项目经验：PROJECT EXPERIENCE",
+            "detailDet": [
+                {
+                    "date": "2015.09-2016.04",
+                    "title": "钱鹰院长实验室 · 得乐商务系统",
+                    "describe": [
+                        "S：重庆市市级连锁超市内部管理系统，研究生前端团队3人负责，本科生前端团队3人负责，该生为本科生前端团队3位核心成员之一。",
+                        "T：基于用户需求，完成需求分析、概要设计、详细设计、编码、联调、测试的全流程。",
+                        "A：编码前组织团队进行需求分析、概要设计、详细设计等，出系列文档；确定编码规范及页面风格；根据成员能力，组织分配团队成员完成界面设计及编码等工作。",
+                        "R：如期交付。在沟通、协作、领导及主动解决问题方面获得一定心得。"
+                    ]
+                },
+                {
+                    "date": "2015.09-2016.04",
+                    "title": "黄颖老师实验室 · 测评报告自动导出系统",
+                    "describe": [
+                        "S：重庆市市级医院测评报告系统，项目核心团队成员，使用 ecahrts 对测评报告评分进行数据可视化。",
+                        "T & A：对系统进行分析、设计、编码，个人负责数据库、Web 界面的设计以及数据可视化部分。",
+                        "R：如期交付。在系统分析、数据库设计、web 后端等方面积累了一些经验。"
+                    ]
+                },
+                {
+                    "date": "2015.09-2015.09",
+                    "title": "红岩网校工作站 · 新生笑脸",
+                    "describe": [
+                        "S：重庆邮电大学校级迎新活动之一，前端项目3名核心团队成员之一，包含PC端和微信端项目。",
+                        "T & A：根据 UI 出的视觉图，独立完成 PC 端部分前端工作，协助完成微信端工作，使用 LESS 编写模块化样式，使用 Git 协同开发，短期内完成整个项目的开发。",
+                        "R：如期完工。在移动端开发等方面积累了一些经验。"
+                    ]
+                }
+            ]
+        },
+        "skill":{
+            "name": "技能清单：SKILL INVENTORY",
+            "detailDet": [
+                {
+                    "date": "2014.09-至今",
+                    "title": "WEB前端",
+                    "describe": [
+                        "能编写 语义化 的 HTML，模块化 的 CSS，熟悉 移动端与PC端 差异；了解常见的浏览器 兼容性 问题及解决方案，了解 flex 布局；熟悉 Postcss、Less、Sass，了解 Next CSS。",
+                        "熟悉 ECMA 规范、 DOM API，能熟练使用 原生JS 编码；熟悉 面向对象 的 JavaScript，使用过 前端模块化 方案；熟悉  React、  Zepto、 jQuery 等框架；了解 Canvas，能使用 Canvas 编写简单的应用。",
+                        "熟悉 Webpack、 Gulp、 Grunt 等打包工具。"
+                    ]
+                },
+                {
+                    "date": "2015.09-至今",
+                    "title": "WEB后端 · Node.js",
+                    "describe": [
+                        "熟悉 JavaScript、 Nodejs API，能熟练使用 原生JS 编写 Nodejs 应用；熟悉 Nodejs 框架 Express、Koa2，能使用 Express、Koa2 开发应用。",
+                        "有使用 Mysql、SQL Server 等数据库的经验。"
+                    ]
+                },
+                {
+                    "date": "2013.09-至今",
+                    "title": "运营维护 & 其他",
+                    "describe": [
+                        "熟悉 *nix，了解常用 Linux 命令及运维方法，有管理运维服务器的经验；以 OS X 为日常工作环境，熟悉 科学上网，常年 FQ，默认 谷歌 ；能查询并阅读英文文档。",
+                        "熟悉 Git 基本命令，了解 SVN，有 Github 开源作品；使用 Visual Studio Code、 WebStorm、 Sublime Text 进行日常开发，使用 Markdown 进行日常写作。",
+                        "了解 Java，能用 Java 编写原生后端代码，使用过 Spring、 SpringMVC、 MyBatis 框架开发 Web 项目。"
+                    ]
+                }
+            ]
+        },
+        "hobbies": {
+            "name":"兴趣爱好：INTERESTS AND HOBBIES",
+            "detailDet": [
+                {
+                    "name": "交友",
+                    "imgClass": "icon-icon-"
+                },
+                {
+                    "name": "代码",
+                    "imgClass": "icon-coding"
+                },
+                {
+                    "name": "写博客",
+                    "imgClass": "icon-blog"
+                },
+                {
+                    "name": "阅读",
+                    "imgClass": "icon-reading"
+                }
+            ]
+        },
+        "evaluation":{
+            "name":"自我评价：EVALUATION",
+            "detailDet": [
+                "该生性格开朗、做事认真踏实、工作兢兢业业、有较强的组织能力、沟通能力和团队协作精神，能迅速的适应各种环境并融合其中。",
+                "期望职业是软件开发工程师，开发界活跃成员，坚信追求卓越，成功就会在不经意间追上自己。"
+            ]
+        },
+        "others":{
+            "name": "其他经验：OTHER EXPERIENCE",
+            "detailDet": [
+                {
+                    "date": "2019.02-至今",
+                    "title": "掘金 · 掘金翻译计划",
+                    "describe": [
+                        "S & T & A：为吸收更多前端前沿性知识、参与开源计划、提高英文水平，加入掘金翻译计划。结合所学前端知识，完成文章的英译中及翻译的校对工作。",
+                        "R：翻译、校对前端相关的英文文章数篇。"
+                    ]
+                },
+                {
+                    "date": "2019.02-2019.02",
+                    "title": "个人项目 · React版个人简历",
+                    "describe": [
+                        "S & T & A：面临实习、就业，加之本科就有过 jQuery 版个人简历，希望将 jQuery 转向 React；分析个人需求，独立完成简历分析、Web 界面设计、编码全流程。",
+                        "R：线上简历: https://resume.huimingwu.com/"
+                    ]
+                }
+                
+            ]
+        }
+    }
+}
+

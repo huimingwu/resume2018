@@ -1,0 +1,130 @@
+.detail {
+    overflow: hidden;    
+}
+.icon-lingxing:before {
+    content: "\E62D";
+    color:#29a5a1;
+    margin: 0px 4px 0px 8px;
+    font-size: 10px;
+    vertical-align: bottom;
+}
+.detail >div {
+    width:50%;
+    float: left;
+}
+.detail >div .small-title {
+    text-align: center;
+    color: #e39830;
+    font-size: 18px;
+    margin: 10px;
+}
+.detInfoL {
+    padding: 0 10px 10px 0;
+    box-sizing:border-box;
+}
+.detInfoR {
+    padding: 0 0 10px 10px;
+    box-sizing:border-box;
+}
+
+
+.detailItemDet {
+    margin-top: 10px;
+    overflow: hidden;
+}
+.detailItemDet .left {
+    float: left;
+    padding-right: 15px;;
+    display:table-cell;
+    height: 100%;
+    width: 15%;
+    box-sizing: border-box;
+    vertical-align: text-top;
+    font-style: italic;
+    font-size: 12px;
+}
+.detailItemDet .right {
+    float: left;
+    width: 85%;
+    box-sizing: border-box;
+    position: relative;
+}
+.detailItemDet .edu_prize {
+    padding:2px 0px 2px 10px;
+    border-left:1px solid #cecccf;
+}
+.detailItem .detail-title {
+    color: #29a5a1;
+    margin-top: -2px;
+    padding:0px 0px 0px 18px;
+}
+.detailItemDet .prize {
+    float: left;
+    display:table-cell;
+    width: 90%;
+    font-size: 14px;
+}
+.detailItemDet .dot {
+    display: inline-block;
+    width:14px;
+    height: 14px;
+    background-color: #e39830;
+    border-radius: 10px;
+    position: absolute;
+    top:1px;
+    left: -7px;
+    box-sizing: border-box;
+}
+.detailItem .prize_li {
+    overflow: hidden;
+    text-align: justify;
+}
+.detailItem .prize_li i {
+    float: left;
+}
+
+.DetailInfoPicLi {
+    margin-top: 5px;
+}
+.DetailInfoPicLi .DetailInfoPicLi_detail {
+    overflow: hidden;
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #626262;
+    box-sizing: border-box;
+    padding: 12px 18px;
+}
+.DetailInfoPicLi li {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+}
+.DetailInfoPicLi i {
+    margin-top: 5px;
+    font-size: 50px;
+}
+
+
+.DetailInfoLine {
+    margin-top: 5px;
+}
+.DetailInfoLine_detail {
+    overflow: hidden;
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #626262;
+    box-sizing: border-box;
+    padding: 15px 18px;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    color: #626262;
+}
+.DetailInfoLine .icon-lingxing:before {
+    vertical-align: middle; 
+}
+
