@@ -7,7 +7,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
       index: path.join(__dirname, './src/config/entrance')
     },
     output: {
-      path: __dirname + '/dist/js',
+      path: __dirname + '/dist',
       filename: '[name].min.js'
     },
     devServer: {                                     //配置
@@ -24,8 +24,8 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
           test: /\.(js|jsx)$/,
           exclude: /(node_modules|bower_components)/,
           use: {
-            loader: 'babel-loader',
-
+            loader: 'babel-loader'
+            
           }
         },
         {
